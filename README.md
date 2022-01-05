@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-
-![My language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=menachemFuterfas&theme=blue-green)
-
-
-<br>
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=menachemFuterfas&show_icons=true)
 
 <hr>
