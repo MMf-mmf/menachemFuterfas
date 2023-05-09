@@ -8,6 +8,4 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=menachemFuterfas&repo=noShvitzFrontEnd)](https://github.com/menachemFuterfas/noShvitzFrontEnd)                  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=menachemFuterfas&repo=noShvitzBackEnd)](https://github.com/menachemFuterfas/noShvitzBackEnd)
 <hr>
 
-## 😂 Here is a random joke from a randome joke generator to lighten the mood!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
